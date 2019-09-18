@@ -1,8 +1,6 @@
-**
 
 ## Step by step:
 
-**
 
  1. register: https://onesignal.com 
  2. create new app from onesignal 
